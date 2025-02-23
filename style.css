@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one{
+    margin: 24px;
+}
+
+button{
+    height: 24px;
+    width: 124px;
+}
+
+input{
+    height: 24px;
+    width: 124px;
+}
